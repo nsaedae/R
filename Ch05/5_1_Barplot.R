@@ -20,6 +20,7 @@ season <- c('winter', 'summer', 'spring', 'summer', 'summer',
             'autumn', 'autumn', 'summer', 'spring', 'spring')
 
 season
+
 #season 데이터 도수분포표 생성
 season_table <- table(season)
 season_table
